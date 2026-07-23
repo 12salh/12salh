@@ -210,7 +210,7 @@ Interested In:
 </a>
 
 <a href="AWS_SYSOPS_VALIDATION_LINK">
-<img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20CloudOps%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </a>
 
 </p>
