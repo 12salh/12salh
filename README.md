@@ -224,18 +224,6 @@ Interested In:
 
 ---
 
-# 🐍 Contribution Snake
-
-> بعد ما تفعّل GitHub Actions هيظهر تلقائيًا.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/12salh/12salh/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=12salh&style=for-the-badge&color=blue"/>
