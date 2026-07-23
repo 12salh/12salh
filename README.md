@@ -80,7 +80,8 @@ Education:
 
 Certification:
   AWS Certified Cloud Practitioner
-
+  AWS Certified Solutions Architect – Associate
+  AWS Certified CloudOps – Associate
 Interested In:
   - AWS
   - Kubernetes
@@ -198,15 +199,17 @@ Interested In:
 
 # 🎓 Certifications
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 <img src="https://img.shields.io/badge/CCNA-Learning-1BA0D7?style=for-the-badge&logo=cisco"/>
 
 </p>
-
----
 
 # 🌍 Connect With Me
 
