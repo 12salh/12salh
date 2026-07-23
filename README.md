@@ -200,7 +200,7 @@ Interested In:
 <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </a>
 
-<a href="AWS_SYSOPS_VALIDATION_LINK">
+<a href="https://www.credly.com/badges/7ede0bc2-19e2-45c1-80b7-1a54bda21a4c/public_url">
 <img src="https://img.shields.io/badge/AWS%20Certified%20CloudOps%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </a>
 
