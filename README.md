@@ -201,7 +201,7 @@ Interested In:
 
 <p align="center">
 
-<a href="AWS_CLOUD_PRACTITIONER_VALIDATION_LINK">
+<a href="https://www.credly.com/badges/7e51e0f2-41c7-4175-a808-af737df7c91e/public_url">
 <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </a>
 
