@@ -129,6 +129,7 @@ Interested In:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=12salh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 </p>
+
 ---
 
 # 📈 Contribution Graph
@@ -200,16 +201,23 @@ Interested In:
 
 <p align="center">
 
+<a href="AWS_CLOUD_PRACTITIONER_VALIDATION_LINK">
 <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</a>
 
+<a href="https://www.credly.com/badges/860eadc2-d967-4687-bc93-ae6eb70d4e42/public_url">
 <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</a>
 
+<a href="AWS_SYSOPS_VALIDATION_LINK">
 <img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</a>
 
-<img src="https://img.shields.io/badge/CCNA-Learning-1BA0D7?style=for-the-badge&logo=cisco"/>
+<a href="CCNA_VALIDATION_LINK">
+<img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
 
 </p>
-
 # 🌍 Connect With Me
 
 <p align="center">
