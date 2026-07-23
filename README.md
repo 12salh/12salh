@@ -124,13 +124,7 @@ Interested In:
   <img src="https://streak-stats.demolab.com?user=12salh&theme=tokyonight&hide_border=true"/>
 </p>
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12salh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
