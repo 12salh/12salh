@@ -1,22 +1,22 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=280&section=header&text=MOHAMED%20SALEH&fontSize=52&fontColor=00f0ff&animation=fadeIn&fontAlignY=42&desc=DevOps%20Engineer%20-%20Cloud%20%26%20Automation&descAlignY=65&descSize=15&descColor=7ee8fa"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Mohamed%20Saleh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform&descAlignY=60&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=600&color=00F0FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+AWS+%26+Terraform;Docker+%2B+Kubernetes+%2B+OpenShift;CI%2FCD+%2B+GitOps+%2B+Ansible;Open+to+Opportunities+%F0%9F%9A%80&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker;Kubernetes+%7C+OpenShift+%7C+Ansible;CI%2FCD+%7C+GitHub+Actions+%7C+GitLab;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mo0hamed-saleh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedsalehpersonal901@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 ## `$ whoami`
 
