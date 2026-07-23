@@ -213,10 +213,6 @@ Interested In:
 <img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </a>
 
-<a href="CCNA_VALIDATION_LINK">
-<img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
-
 </p>
 # 🌍 Connect With Me
 
