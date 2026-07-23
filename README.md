@@ -35,64 +35,215 @@
 | ☁️ Cloud & Infra | 🔄 CI/CD & Automation | 🔒 Networking & Security | 📊 Monitoring |
 |---|---|---|---|
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![VLAN](https://img.shields.io/badge/VLAN%2FTrunking-326CE5?style=flat-square&logo=cisco&logoColor=white) ![Firewall](https://img.shields.io/badge/Firewalls_IDS%2FIPS-003366?style=flat-square) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![OSPF](https://img.shields.io/badge/OSPF_EIGRP_RIP-003366?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## Featured Projects
-
-### 🏆 Network Automation Platform — Graduation Project
-Web-based platform for automating enterprise network configuration, monitoring, and troubleshooting.
-
-    Backend      : Python automation scripts
-    Dashboard    : Web-based network operations management
-    Focus        : Secure network design + automation best practices
-
-### ⚙️ CI/CD Pipeline with AWS & Kubernetes — NTI Project
-End-to-end automated pipeline from code to production deployment.
-
-    CI/CD        : GitLab CI + Ansible
-    Containers   : Docker → Kubernetes
-    Infra        : Terraform (AWS)
-    Monitoring   : Prometheus + security best practices
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 🎖️ Certifications
-
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS CloudOps](https://img.shields.io/badge/AWS_CloudOps_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHCSA_I_%26_II-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 💼 Experience Timeline
-
-    2025 Sep ──►  DevOps Engineer Intern @ NTI, Smart Village
-                  RHEL · Docker · Kubernetes · OpenShift · Terraform
-                  GitLab CI/CD · Ansible · Prometheus
-
-    2025 Feb ──►  Network Security Engineer Intern @ NTI, Tanta
-                  VLANs · Trunking · STP · OSPF/EIGRP/RIP · Firewalls
-
-    2025 Jan ──►  B.Sc. Graduated — IT Forensics, Banha University
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 🌍 Let's Build Something
-
-### Open to Roles In:
-`DevOps Engineering` · `Cloud Infrastructure` · `Site Reliability`
-
-🇪🇬 **Egypt** | 🌐 **Remote**
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![OSPF](https://img.shields.io/badge/OSPF_EIGRP_RIP-003366?style=flat-square) | ![Python](https://img.shields.io/badge/Python-<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<a href="https://linkedin.com/in/mo0hamed-saleh"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mohamedsalehpersonal901@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=MOHAMED%20SALEH&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=58&descColor=ffffff"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=12salh&label=Profile+Views&color=00eaff&style=for-the-badge)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;Linux+%7C+CI%2FCD+%7C+Automation;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer&animation=fadeIn&fontColor=00eaff&fontSize=14)
+<p align="center">
+
+<a href="https://github.com/12salh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/mo0hamed-saleh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohamedsalehpersonal901@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Mohamed Omar Saleh
+
+Role:
+  Cloud & DevOps Engineer
+
+Location:
+  Egypt 🇪🇬
+
+Education:
+  B.Sc. Information Technology Forensics
+  Benha University
+
+Certification:
+  AWS Certified Cloud Practitioner
+
+Interested In:
+  - AWS
+  - Kubernetes
+  - Terraform
+  - Docker
+  - Linux
+  - CI/CD
+  - Automation
+```
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,githubactions,jenkins,python,prometheus,grafana,vscode&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=12salh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12salh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=12salh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=12salh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=12salh&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## ☁️ DevOps Internship — NTI
+
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- Linux
+- Jenkins
+- Git
+- Prometheus
+
+---
+
+## 🌐 Network Security Internship — NTI
+
+- VLAN
+- STP
+- OSPF
+- EIGRP
+- RIP
+- Firewalls
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ AWS Infrastructure
+
+- VPC
+- EC2
+- IAM
+- S3
+- CloudWatch
+
+---
+
+## ⚙️ Kubernetes Deployment
+
+- Docker
+- Kubernetes
+- Terraform
+
+---
+
+## 🚀 CI/CD Pipeline
+
+- GitHub Actions
+- Jenkins
+- Docker
+- Kubernetes
+
+---
+
+# 🎓 Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/CCNA-Learning-1BA0D7?style=for-the-badge&logo=cisco"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mo0hamed-saleh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mohamedsalehpersonal901@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> بعد ما تفعّل GitHub Actions هيظهر تلقائيًا.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/12salh/12salh/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=12salh&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,20,24"/>
+
+</p>
