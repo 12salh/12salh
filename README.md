@@ -20,20 +20,22 @@
 </p>
 ## $ 'whoami'    
 
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
-    │                                                              │
-    │   name         :  Mohamed Omar Saleh                        │
-    │   role         :  DevOps Engineer                           │
-    │   focus        :  Cloud Automation & Infrastructure          │
-    │   education    :  B.Sc. IT Forensics - Banha University      │
-    │   graduated    :  January 2025                                │
-    │   location     :  Egypt                                      │
-    │   status       :  Open to Opportunities 🚀                   │
-    │                                                              │
-    │   stack  :  AWS · Docker · Kubernetes · OpenShift            │
-    │             Terraform · Ansible · GitLab CI/CD                │
-    │                                                              │
-    └──────────────────────────────────────────────────────────────┘
+│                                                              │
+│   Mohamed Omar Saleh                                        │
+│   ───────────────────────────────────────────────────────    │
+│   Junior DevOps Engineer | Cloud Automation Enthusiast       │
+│                                                              │
+│   ☁️ Cloud      : AWS, Terraform, Infrastructure as Code     │
+│   🐳 Containers : Docker, Kubernetes, OpenShift              │
+│   ⚙️ Automation : Ansible, GitLab CI/CD, Bash, Python        │
+│   🖥️ Systems   : Linux, RHEL, System Administration          │
+│                                                              │
+│   📍 Egypt | 🚀 Open to DevOps Opportunities                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
